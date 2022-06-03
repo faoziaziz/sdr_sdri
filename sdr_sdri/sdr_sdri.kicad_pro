@@ -422,6 +422,14 @@
     [
       "4dc71fdf-928d-406e-85ed-8ccea089d271",
       "DDR_ext"
+    ],
+    [
+      "dfeccaa7-b6b0-4f3e-b0bc-ce2695437669",
+      "DDR_SOC"
+    ],
+    [
+      "b2a25a1f-142f-4e47-8ae6-1f768b3335ee",
+      "PMIC"
     ]
   ],
   "text_variables": {}
