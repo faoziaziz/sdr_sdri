@@ -418,6 +418,10 @@
     [
       "2b97c787-dfd5-484f-a9f0-4eb30c86ede3",
       "PowerSOC"
+    ],
+    [
+      "4dc71fdf-928d-406e-85ed-8ccea089d271",
+      "DDR_ext"
     ]
   ],
   "text_variables": {}
