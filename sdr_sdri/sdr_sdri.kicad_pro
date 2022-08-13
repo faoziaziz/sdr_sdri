@@ -430,6 +430,18 @@
     [
       "b2a25a1f-142f-4e47-8ae6-1f768b3335ee",
       "PMIC"
+    ],
+    [
+      "fce3a433-b770-4970-a795-275dfe538ae4",
+      "osilator"
+    ],
+    [
+      "031571a4-ae76-413e-9e3f-c7589307876e",
+      "interfes"
+    ],
+    [
+      "1e6a4ff4-1eeb-48e3-ba5a-d68c2a67df30",
+      "Bank500"
     ]
   ],
   "text_variables": {}
